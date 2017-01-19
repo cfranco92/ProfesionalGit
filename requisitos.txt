@@ -1,0 +1,33 @@
+Para empezar, te pediremos 2 importantes requisitos:
+
+
+Te pediremos que instales GIT dentro de tu computadora. La versión que
+utilizaremos tiene que ser, aconsejable, arriba de la 1.9.
+
+
+En el siguiente material te explicamos cómo es la instalación y confirmar que ya
+lo tienes.
+Es muy fácil y afortunadamente, hacerlo toma unos 5-10 minutos sin mucho problema.
+
+
+Genera una cuenta en GitHub. En www.github.com
+
+
+Llena tu perfil, por completo. Coloca un avatar.
+
+Adicionalmente, te pediremos que nos compartas tu usuario en esta discusión.
+
+La idea es agregarte a nuestra comunidad en GitHub, donde contamos con todos los
+archivos de los demás cursos y proyectos que hemos realizado con estudiantes.
+
+Haremos más iniciativas ahí, entonces, te invitamos a formar parte.
+
+
+
+¿Qué necesitamos para tomar este curso?
+
+
+
+Git
+
+GitHub
